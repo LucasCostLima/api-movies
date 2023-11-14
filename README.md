@@ -68,6 +68,14 @@ endpoints relacionados a um CRUD de **filmes**
 
   <table>
 
+  <tr>
+    <th>Request name</th>
+    <th>Method</th>
+    <th>Endpoint</th>
+    <th>Request body</th>
+    <th>Returns</th>
+  </tr>
+
 
   <tr>
     <td>RegisterStudio</td>
