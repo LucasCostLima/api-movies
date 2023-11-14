@@ -1,0 +1,20 @@
+{
+  "name": "avengers-api",
+  "version": "1.0.0",
+  "description": "avengers api desenvolvida em nodejs com mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx watch src/index.js",
+    "start": "node src/index.js"
+  },
+  "author": "Lucas Lima",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.5.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0",
+    "prisma": "^5.5.2",
+    "tsx": "^4.1.1"
+  }
+}
