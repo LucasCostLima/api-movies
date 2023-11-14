@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 
 export const Film = new mongoose.model("Film", {
   title: String,

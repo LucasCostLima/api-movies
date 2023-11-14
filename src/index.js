@@ -1,5 +1,6 @@
-const express = require("express");
-const mongoose = require("mongoose");
+/*const express = require("express");*/
+import express from "express";
+import mongoose from "mongoose";
 import * as filmController from "./controllers/film.controller";
 import * as studioController from "./controllers/studio.controller";
 
